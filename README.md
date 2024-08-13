@@ -34,7 +34,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
--nThese software engineering tools enhance productivity, collaboration, and code quality by providing developers with features such as code editors, version control and debugging tools. An exmaple of an IDE is Sublime and the most popular example of a VCS is Git.
+- These software engineering tools enhance productivity, collaboration, and code quality by providing developers with features such as code editors, version control and debugging tools. An exmaple of an IDE is Sublime and the most popular example of a VCS is Git.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
