@@ -56,6 +56,9 @@ Quality control measures such as code reviews, automated testing, and continuous
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+- Prompt engineering is the art of crafting questions or statements to get the best possible responses from AI models
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+- Example of a vague prompt: How do we utilise data analysis in our business?
+- Better prompt: In the context of our online clothing sales business, how can we utilise analysis to convert sales data into actionable business insights?
